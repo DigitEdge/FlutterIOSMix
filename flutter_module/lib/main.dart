@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:ui';
 import 'package:flutter/services.dart';
-import 'package:my_flutter/one_page.dart';
+import 'one_page.dart';
 
 /** channel
  * MethodChanner - 传递方法，一次性通信（点击一次，通信一次）
